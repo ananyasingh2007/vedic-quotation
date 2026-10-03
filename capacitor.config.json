@@ -1,0 +1,8 @@
+{
+  "appId": "com.vedicindia.quotation",
+  "appName": "Vedic Quotation",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
